@@ -5,13 +5,16 @@ body{
   font-family: Merriweather,serif;
 }
 h1 {
+      color: white;
   margin-top: 0;
   font-family: Montserrat,serif;
 }
 h3{
+      color: white;
   font-family: Montserrat,serif;
 }
 h2{
+      color: white;
   font-family: Montserrat,serif;
 }
 .topcontainer{
